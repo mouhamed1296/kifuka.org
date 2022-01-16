@@ -1,0 +1,13 @@
+{
+  "title": "Kifuka",
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod suscipit turpis, vitae dapibus eros dictum at. Aliquam scelerisque placerat ligula, at sodales dolor maximus nec. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla nulla ex, molestie eget ante at, hendrerit lobortis magna. Pellentesque suscipit placerat malesuada. Cras sapien ex, feugiat eu felis ac, semper ullamcorper dolor. Duis ac egestas arcu. Praesent vehicula blandit tellus non posuere.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
